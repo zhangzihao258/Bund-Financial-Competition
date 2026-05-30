@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1779992901.73986 "d:/skd/外滩金融比赛/报名准备/商业计划书/初版商业计划书.tex" "初版商业计划书.pdf" "初版商业计划书" 1779992904.84788 0
+["pdflatex"] 1780116922.73577 "d:/skd/外滩金融比赛/报名准备/商业计划书/初版商业计划书.tex" "初版商业计划书.pdf" "初版商业计划书" 1780116926.01086 0
   "c:/Windows/Fonts/msyh.ttc" 1742886668 19704352 1e10e74402e59d54499af795caf0b135 ""
   "c:/Windows/Fonts/simhei.ttf" 1770779734 9745792 5c7fd3058dea9b77be5049ff7efa9f34 ""
   "c:/Windows/Fonts/simsun.ttc" 1770779734 18316748 0ba67eea91ba3af0ac4836d0e922d011 ""
@@ -78,6 +78,7 @@
   "c:/texlive/2024/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei90.tfm" 1730879953 1172 bf3a9ea28c06174042dcd642737f0ad2 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei91.tfm" 1730879953 1172 af08f180dd0ec6a7129972d09ff61a98 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei94.tfm" 1730879953 1172 3342a075989efb631633f68dafc48654 ""
+  "c:/texlive/2024/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei95.tfm" 1730879953 1172 5a7e9ba612e7803abcac167ef6c5a665 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei96.tfm" 1730879953 1172 baafaa35cbf14b936974ec3a58b5f3e8 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei97.tfm" 1730879953 1172 909826a1f69146e1bd8f119157e28fcd ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei98.tfm" 1730879953 1172 1261ce7302f6ac3352bb5ce3d475a0d8 ""
@@ -266,13 +267,13 @@
   "c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1730879984 5513072 9c1fc38a7d970efa00aeae6b397bfedd ""
   "c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1730880156 8221518 b42f94c55fd83bae0d8af515729367c5 ""
   "c:/texlive/2024/texmf.cnf" 1730879964 713 e69b156964470283e0530f5060668171 ""
-  "d:/skd/外滩金融比赛/报名准备/商业计划书/初版商业计划书.tex" 1779992897 38317 0ed70cd5e85f93d726cb8826e4f1e194 ""
+  "d:/skd/外滩金融比赛/报名准备/商业计划书/初版商业计划书.tex" 1780116914 40810 f9e1648fabc822910b77c9d8e2f4916a ""
   "image/mean_total_efficiency_vs_N.png" 1779967525 128802 6d175050734c1cde9217d03cd77b542f ""
   "image/var_surplus_efficiency_vs_N.png" 1779967520 127969 981faab69b24d1728492461a7dcac5eb ""
-  "初版商业计划书.aux" 1779992903 6488 d66c38f32898356c16bc8c8afd1274d4 "pdflatex"
-  "初版商业计划书.out" 1779992903 5100 23b0ac3dd415c8a40f46fc424e973352 "pdflatex"
-  "初版商业计划书.tex" 1779992897 38317 0ed70cd5e85f93d726cb8826e4f1e194 ""
-  "初版商业计划书.toc" 1779992903 3596 91fd93e98f56fc978a8539c898ce3e3e "pdflatex"
+  "初版商业计划书.aux" 1780116925 6510 1d0f8e59279df7cc2f5d20df5e374d08 "pdflatex"
+  "初版商业计划书.out" 1780116925 5129 f5bd484ecc500e314ae5b5f564a3fd8c "pdflatex"
+  "初版商业计划书.tex" 1780116914 40810 f9e1648fabc822910b77c9d8e2f4916a ""
+  "初版商业计划书.toc" 1780116925 3618 cefe2f2de55dc7cbd81a6863d7adc2c0 "pdflatex"
   (generated)
   "初版商业计划书.aux"
   "初版商业计划书.log"

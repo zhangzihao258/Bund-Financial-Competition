@@ -3,42 +3,39 @@
 \contentsline {subsection}{\numberline {2.1}传统采购价格不透明}{3}{subsection.2.1}%
 \contentsline {subsection}{\numberline {2.2}中小企业采购效率低}{4}{subsection.2.2}%
 \contentsline {subsection}{\numberline {2.3}供应链金融缺少可信交易数据}{4}{subsection.2.3}%
-\contentsline {section}{\numberline {3}解决方案}{4}{section.3}%
-\contentsline {subsection}{\numberline {3.1}双边拍卖采购机制}{4}{subsection.3.1}%
-\contentsline {paragraph}{商品标签与同质交易池。}{5}{paragraph*.1}%
-\contentsline {subsection}{\numberline {3.2}价格透明化机制}{5}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}邀请式市场扩展机制}{6}{subsection.3.3}%
-\contentsline {subsection}{\numberline {3.4}动态供需平衡扩容机制}{6}{subsection.3.4}%
-\contentsline {subsection}{\numberline {3.5}履约与风控机制}{7}{subsection.3.5}%
-\contentsline {paragraph}{行为可信度。}{7}{paragraph*.2}%
-\contentsline {paragraph}{Sybil 风险变量。}{9}{paragraph*.3}%
-\contentsline {paragraph}{图结构风险与具体处理。}{10}{paragraph*.4}%
-\contentsline {paragraph}{不同风险等级的处理策略。}{11}{paragraph*.5}%
-\contentsline {section}{\numberline {4}核心产品功能}{12}{section.4}%
-\contentsline {subsection}{\numberline {4.1}买方采购端}{12}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}卖方供货端}{13}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}平台撮合系统}{13}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}价格指数系统}{13}{subsection.4.4}%
-\contentsline {subsection}{\numberline {4.5}供应链金融服务接口}{13}{subsection.4.5}%
-\contentsline {section}{\numberline {5}技术创新点}{13}{section.5}%
-\contentsline {subsection}{\numberline {5.1}双边拍卖机制：从单边询价到多方价格发现}{14}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}邀请网络机制：从静态市场到可扩展市场}{14}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3}动态供需平衡扩容机制：修正局部供需失衡}{14}{subsection.5.3}%
-\contentsline {subsection}{\numberline {5.4}非破坏式交易锁定与奖励隔离：降低邀请套利风险}{15}{subsection.5.4}%
-\contentsline {subsection}{\numberline {5.5}真实成交价格指数：从交易撮合到市场基础数据}{15}{subsection.5.5}%
-\contentsline {subsection}{\numberline {5.6}交易数据风控：从采购记录到供应链金融信用}{15}{subsection.5.6}%
-\contentsline {subsection}{\numberline {5.7}机制仿真验证：评估效率、稳定性与扩展成本}{16}{subsection.5.7}%
-\contentsline {section}{\numberline {6}机制仿真与效率分析}{17}{section.6}%
-\contentsline {section}{\numberline {7}商业模式}{19}{section.7}%
-\contentsline {section}{\numberline {8}目标客户与应用场景}{19}{section.8}%
-\contentsline {subsection}{\numberline {8.1}第一阶段：生鲜食材采购}{19}{subsection.8.1}%
-\contentsline {subsection}{\numberline {8.2}第二阶段：低值工业品与办公物资采购}{19}{subsection.8.2}%
-\contentsline {subsection}{\numberline {8.3}第三阶段：医药耗材等强监管场景}{20}{subsection.8.3}%
-\contentsline {section}{\numberline {9}竞争优势}{20}{section.9}%
-\contentsline {section}{\numberline {10}运营与落地计划}{20}{section.10}%
-\contentsline {subsection}{\numberline {10.1}冷启动阶段}{20}{subsection.10.1}%
-\contentsline {subsection}{\numberline {10.2}试点验证阶段}{20}{subsection.10.2}%
-\contentsline {subsection}{\numberline {10.3}规模扩张阶段}{21}{subsection.10.3}%
-\contentsline {section}{\numberline {11}风险与应对措施}{21}{section.11}%
-\contentsline {section}{\numberline {12}发展愿景}{21}{section.12}%
-\contentsline {section}{\numberline {13}项目一句话总结}{21}{section.13}%
+\contentsline {section}{\numberline {3}平台交易机制：ClearBid 如何完成一笔采购交易}{4}{section.3}%
+\contentsline {subsection}{\numberline {3.1}交易池形成：商品标签与同质采购池}{4}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}买卖双方出价：表达真实采购区间}{4}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}双边拍卖撮合：形成初始交易}{5}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}交易锁定：先保护已经形成的成交}{5}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}邀请扩散：让市场从真实关系中扩展}{5}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}动态供需平衡扩容：补充当前缺失方}{5}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}邀请奖励：奖励真实贡献，隔离 balance 套利}{6}{subsection.3.7}%
+\contentsline {subsection}{\numberline {3.8}交易沉淀：形成价格指数与信用数据}{6}{subsection.3.8}%
+\contentsline {section}{\numberline {4}产品系统与业务闭环：机制如何落地为平台功能}{6}{section.4}%
+\contentsline {subsection}{\numberline {4.1}买方采购端}{7}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}卖方供货端}{7}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}平台撮合与 balance 引擎}{7}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}邀请、风控与防女巫系统}{7}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}价格指数与数据服务}{10}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}供应链金融接口}{11}{subsection.4.6}%
+\contentsline {section}{\numberline {5}方法价值与技术壁垒：为什么 ClearBid 更好}{11}{section.5}%
+\contentsline {subsection}{\numberline {5.1}解决价格不透明：从询价到双边价格发现}{11}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}解决冷启动：从平台拉新到邀请式市场扩展}{11}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}解决局部供需失衡：动态 balance 扩容}{11}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}解决邀请套利：交易锁定、奖励隔离与防女巫风控}{12}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}形成数据壁垒：真实成交数据沉淀}{12}{subsection.5.5}%
+\contentsline {section}{\numberline {6}机制仿真与效率分析}{12}{section.6}%
+\contentsline {section}{\numberline {7}商业模式}{14}{section.7}%
+\contentsline {section}{\numberline {8}目标客户与应用场景}{15}{section.8}%
+\contentsline {subsection}{\numberline {8.1}第一阶段：生鲜食材采购}{15}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}第二阶段：低值工业品与办公物资采购}{15}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}第三阶段：医药耗材等强监管场景}{15}{subsection.8.3}%
+\contentsline {section}{\numberline {9}竞争优势}{15}{section.9}%
+\contentsline {section}{\numberline {10}运营与落地计划}{15}{section.10}%
+\contentsline {subsection}{\numberline {10.1}冷启动阶段}{15}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}试点验证阶段}{16}{subsection.10.2}%
+\contentsline {subsection}{\numberline {10.3}规模扩张阶段}{16}{subsection.10.3}%
+\contentsline {section}{\numberline {11}风险与应对措施}{16}{section.11}%
+\contentsline {section}{\numberline {12}发展愿景}{16}{section.12}%
+\contentsline {section}{\numberline {13}项目一句话总结}{17}{section.13}%
